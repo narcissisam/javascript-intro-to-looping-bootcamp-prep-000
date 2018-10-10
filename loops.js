@@ -10,4 +10,5 @@ function whileLoop(n) {
     console.log("$number");
     number--;
   }
+  console.log("done")
 }
