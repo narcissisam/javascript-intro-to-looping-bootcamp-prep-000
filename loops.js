@@ -16,6 +16,7 @@ function incrementVariable() {
   i = i + 1;
 }
 function doWhileLoop(array){
+  i = 0
   do {
   array.slice(i);
 } while (array.length > 0 && incrementVariable())
