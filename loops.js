@@ -6,8 +6,8 @@ function forLoop(array) {
 }
 }
 function whileLoop(n) {
-  while (number > 0){
-    console.log("$number");
+  while (n > 0){
+    console.log("$n");
     number--;
   }
   console.log("done");
