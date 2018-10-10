@@ -17,7 +17,7 @@ function incrementVariable() {
 }
 function doWhileLoop(array){
   do {
-  array.shift(i);
+  array.shift();
 } while (array.length > 0 && incrementVariable())
 return array;
 }
